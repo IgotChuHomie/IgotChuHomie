@@ -1,6 +1,6 @@
 ## <strong>Hi there, I'm OUSSAMA.</strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 <hr color="red">
-<img src="https://media.giphy.com/media/3o7WIQnDdXNKbHavv2/giphy.gif" width="1000" height="300" align="center" />
+<img src="https://media.giphy.com/media/3o7WIQnDdXNKbHavv2/giphy.gif" width="800" height="260" align="center" />
 
 <hr color="green">
 <hr color="blue">

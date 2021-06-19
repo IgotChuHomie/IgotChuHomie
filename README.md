@@ -1,13 +1,12 @@
+
 ## <strong>Hi there, I'm OUSSAMA.</strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
-<hr color="red">
-<img src="https://media.giphy.com/media/3o7WIQnDdXNKbHavv2/giphy.gif" width="800" height="260" align="center" />
+
+<img src="https://media.giphy.com/media/3o7WIQnDdXNKbHavv2/giphy.gif" width="1000" height="200" align="center" />
 
 <hr color="green">
-<hr color="blue">
-
 
 <table><tr><td>Languages and Tools:</td></tr></table>
-<p align="center">
+<p >
 <img  src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1d/20200803061710%21PyCharm_Icon.svg" width="80">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="80"> 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" width="50">

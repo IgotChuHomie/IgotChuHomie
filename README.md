@@ -1,7 +1,6 @@
 
 ## <strong>Hi there, I'm OUSSAMA.</strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
 
-<img src="https://media.giphy.com/media/3o7WIQnDdXNKbHavv2/giphy.gif" width="1000" height="200" align="center" />
 
 <hr color="green">
 

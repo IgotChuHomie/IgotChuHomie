@@ -1,15 +1,26 @@
+### Hi there, I'm Oussama 👋
 
-## <strong>Hi there, I'm OUSSAMA.</strong><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+- 20 years old;
+- Morocco, Meknes;
+- Python Lover;
+- Free Software Enthusiast;
+<hr>
 
-
-<hr color="green">
-
-<table><tr><td>Languages and Tools:</td></tr></table>
-<p >
-<img  src="https://upload.wikimedia.org/wikipedia/commons/archive/1/1d/20200803061710%21PyCharm_Icon.svg" width="80">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="80"> 
-<img src="https://www.pngkey.com/png/full/264-2646582_logo-transparent-background-java.png" width="55" height="60" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" width="100" height="50" >
-<img src ="http://clipart-library.com/images_k/php-logo-transparent/php-logo-transparent-12.png" width="300" ><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" width="60">
-</p>
-
+# Technologies & Tools
+<div>
+<div style="display: inline_block; margin-bottom: 20px;">
+<img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
+<img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
+<img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+<img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
+<img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg">  
+<img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">        
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg">
+<img align="center" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+</div>
+</div>
+</br>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igotchuhomie&exclude_repo=analise-facial&layout=compact"/>
+ 

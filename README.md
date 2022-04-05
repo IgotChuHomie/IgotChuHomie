@@ -1,6 +1,6 @@
 ### Hi there, I'm Oussama 👋
 
-- 20 years old;
+- 21 years old;
 - Morocco, Meknes;
 - Python Lover;
 - Free Software Enthusiast;
